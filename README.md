@@ -1,16 +1,16 @@
-<h1 align="center">Hi 😺 I'm Alvina </h1>
+<h1 align="center">Hiiiii 👋 I'm Alvina </h1>
 <h3 align="center">A passionate student from 42, France </h3>
-<img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/AmusingFailingCornsnake.webp">
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/AL_kKT7aS9IAAAAC/serial-experiments-lain-yasuo-iwakura.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alvinouille&label=Profile%20views&color=0e75b6&style=flat" alt="alvinouille" /> </p>
 
-- 🌱 I’m currently learning software development
+- Currently learning everything I can in software development
   
-- 🤔 I’m looking for help with web3 development
+- I’m looking for help with Web3 development
 
-- ⚡ 日本語をべんきょうしていますが、C++よりもむずかしいです！
+- 日本語をべんきょうしていますが、C++よりもむずかしいです！
 
-- 📫 Contact : **alvina.lesaint@outlook.fr**
+- Contact : **alvina.lesaint@outlook.fr**
   
 <p align="left">
 </p>
