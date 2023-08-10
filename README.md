@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Alvina :)</h1>
+<h1 align="center">Hi 👋, I'm Alvina</h1>
 <h3 align="center">A passionate student from 42, France</h3>
 <img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/AmusingFailingCornsnake.webp">
 
