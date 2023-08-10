@@ -5,12 +5,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alvinouille&label=Profile%20views&color=0e75b6&style=flat" alt="alvinouille" /> </p>
 
 - 🌱 I’m currently learning software development
-
-- 📫 How to reach me : **alvina.lesaint@outlook.fr**
   
 - 🤔 I’m looking for help with web3 development
 
 - ⚡ 日本語をべんきょうしていますが、C++よりもむずかしいです！
+
+- - 📫 Contact : **alvina.lesaint@outlook.fr**
   
 <p align="left">
 </p>
