@@ -10,7 +10,7 @@
 
 - ⚡ 日本語をべんきょうしていますが、C++よりもむずかしいです！
 
-- - 📫 Contact : **alvina.lesaint@outlook.fr**
+- 📫 Contact : **alvina.lesaint@outlook.fr**
   
 <p align="left">
 </p>
