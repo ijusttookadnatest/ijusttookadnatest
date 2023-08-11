@@ -13,9 +13,8 @@
 
 - Contact : **alvina.lesaint@outlook.fr**
   
-<p align="center">
-</p>
 
+</p>
 <h3 align="center">Languages and Tools:</h3>
 
 <p align="center"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
