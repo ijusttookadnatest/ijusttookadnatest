@@ -1,37 +1,7 @@
 
-<h1 align="center">Hiiiii 👋 I'm Alvina </h1>
-<h3 align="center">A passionate student from 42, France </h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/AL_kKT7aS9IAAAAC/serial-experiments-lain-yasuo-iwakura.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alvinouille&label=Profile%20views&color=0e75b6&style=flat" alt="alvinouille" /> </p>
-
-- Currently learning everything I can in software development
-  
-- I’m looking for help with Web3 development
-
-- 日本語をべんきょうしていますが、C++よりもむずかしいです！
-
-- Contact : **alvina.lesaint@outlook.fr**
-  
-
-</p>
-<h3 align="center">Languages and Tools:</h3>
-
-<p align="center"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-</a> 
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-</a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-</a> </p>
-
-
-
-
-
-
+<h1 align="center">Currently learning everything I can in software development and DSA </h1>
+<h3 align="center">Alvina, student from 42 Paris </h3>
+<img align="center" alt="Coding" width="1000" src="https://llllline.com/image/catalog/products/Loading04.gif">
 
 <!--
 **alvinouille/alvinouille** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
