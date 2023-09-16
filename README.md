@@ -1,6 +1,6 @@
 
-<h1 align="center">Currently learning everything I can in software development and DSA </h1>
-<h3 align="center">Alvina, student from 42 Paris </h3>
+<h1 align="center">Alvina, student from 42 Paris </h1>
+<h3 align="center">Currently learning about software development and DSA</h3>
 <img align="center" alt="Coding" width="1000" src="https://llllline.com/image/catalog/products/Loading04.gif">
 
 <!--
