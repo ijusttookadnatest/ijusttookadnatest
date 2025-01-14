@@ -2,7 +2,7 @@
 
 - 🚀  I'm working on a simple uniswap V4-like DEX project, on a RWA project and on a project's tokenization application
 - ☁️  I’m learning smart contract development best practices and security
-- 🌱  I’m interested in DeFi protocols, ZK-Proof, Multi-chain interoperability, Account Abstraction... 
+- 🌱  I’m interested in DeFi protocols, EVM and SVM
 - ✉️  How to reach me: [alvinalesaint@protonmail.com](mailto:alvinalesaint@protonmail.com)
 - ⚡ Fun fact: it seems like I'm the only one on github to learn japanese for real
 
