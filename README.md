@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=333333&height=200&text=Hi,%20%20I%27m%20Alvina%20Le%20Saint%20%F0%9F%91%8B&fontSize=24&fontAlignY=40&fontColor=FFFFFF" alt="header" width="100%" />
 
-- 🚀  I'm working on a simple modern DEX project
+- 🚀  I'm working on a simple uniswap V4-like DEX project, on a RWA project and on a project's tokenization application
 - ☁️  I’m learning smart contract development best practices and security
 - 🌱  I’m interested in DeFi protocols, ZK-Proof, Multi-chain interoperability, Account Abstraction... 
 - ✉️  How to reach me: [alvinalesaint@protonmail.com](mailto:alvinalesaint@protonmail.com)
