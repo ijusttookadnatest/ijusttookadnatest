@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=333333&height=200&text=Hi,%20%20I%27m%20Alvina%20Le%20Saint%20%F0%9F%91%8B&fontSize=24&fontAlignY=40&fontColor=FFFFFF" alt="header" width="100%" />
 
 - 🚀  I'm working on several DeFi and tokenisation projects
-- ☁️  I’m learning smart contract development best practices and security
+- ☁️  I’m learning smart contract development best practices and Rust
 - 🌱  I’m interested in DeFi protocols, EVM and SVM
 - ✉️  How to reach me: [alvinalesaint@protonmail.com](mailto:alvinalesaint@protonmail.com)
 - ⚡ Fun fact: it seems like I'm the only one on github to learn japanese for real
