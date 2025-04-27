@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=333333&height=200&text=Hi%20%20%20friendsss%20%20%20%F0%9F%91%BE&fontSize=24&fontAlignY=40&fontColor=FFFFFF" alt="header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=333333&height=200&text=Hi%20%20%20friends%20%20%20%F0%9F%91%BE&fontSize=24&fontAlignY=40&fontColor=FFFFFF" alt="header" width="100%" />
 
 - Currently working at [KasarLabs](https://github.com/KasarLabs) on agentic projects applied to blockchain 
 - Really into backend and smart contract development, primarily focused on evm-compatible layer 1 and layer 2 solutions
