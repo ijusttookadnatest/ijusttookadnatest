@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=333333&height=200&text=Hi%20%20%20friends%20%20%20%F0%9F%91%BE&fontSize=24&fontAlignY=40&fontColor=FFFFFF" alt="header" width="100%" />
 
-- Backend engineer focused on performance, data-intensive systems and system design
+- Backend engineer focused on performance, data-intensive applications and system design
 - Built agentic solutions applied to blockchain, now diving deeper into infra and DeFi
 
 <br>
