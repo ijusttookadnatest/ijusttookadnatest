@@ -1,18 +1,16 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=333333&height=200&text=Hi%20%20%20friends%20%20%20%F0%9F%91%BE&fontSize=24&fontAlignY=40&fontColor=FFFFFF" alt="header" width="100%" />
 
-- Currently working at [KasarLabs](https://github.com/KasarLabs) on agentic projects applied to blockchain 
-- Really into backend and smart contract development, primarily focused on evm-compatible layer 1 and layer 2 solutions
-- Just discovering the wonderful world of zkp ✨
+- Backend engineer focused on performance, data-intensive systems and system design
+- Built agentic solutions applied to blockchain, now diving deeper into infra and DeFi
 
 <br>
 
 ## Skills
 
 ### Programming
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
-![image](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![image](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
 ###  Frameworks
 ![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
